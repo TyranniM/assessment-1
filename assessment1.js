@@ -1,3 +1,6 @@
+Tyranni Mathews
+
+
 // #1 
 // create a variable of each of the following data types
 // string , int ,bool , float
